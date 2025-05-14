@@ -1,2 +1,2 @@
 # Hyperspectral-Image-Classification
-Hyperspectral Image Classification using deep learning
+Hyperspectral Image Classification for satellite imagery using deep learning
